@@ -66,6 +66,7 @@ a:hover {
 .bold {
     font-weight: 600;
     text-transform: uppercase;
+    margin-right: 5px;
 }
 
 .exper-place {
