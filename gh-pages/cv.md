@@ -1,5 +1,8 @@
 # Valeryia Mazurkevich
 ##### Future JavaScript developer
+********* 
+###### Committed and artistic developer. My purposeis to fulﬁll people's needs, taking into consideration more than just a functional factor. During my professional activities, I have learned and experienced a lot of aspects of the technical and design sides of projects, working with skillful and highly qualiﬁed people. 
+********* 
 ## WORK EXPERIENCE
 * IT Recruiter- Sourcer 03. 2022 - Present
    + Andersen Lab, Poland, Krakow
