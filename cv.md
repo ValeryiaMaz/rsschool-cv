@@ -40,7 +40,7 @@
 * HTML
 * CSS
 * JavaScript
-### ADVANCED:
+### Advanced:
 * AUTOCAD
 * RHINO 3D
 * PHOTOSHOP
