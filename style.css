@@ -73,3 +73,7 @@ a:hover {
     font-weight: 400;
     margin-bottom: 20px;
 }
+
+.exper-min-block:last-child {
+    margin-bottom: 50px;
+}
