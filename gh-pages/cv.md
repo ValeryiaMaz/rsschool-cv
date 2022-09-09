@@ -48,3 +48,7 @@
 * INDESIGN
 * CINEMA 4D
 * 3DMAX
+## LANGUAGES:
+* English B2
+* Polish B2
+* Belarusian native
