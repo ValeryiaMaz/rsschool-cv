@@ -35,7 +35,7 @@
    + Sensory Park: Public Space for everyone
 * SUMMER SCHOOL OF ARCHITECTURE
    + TU Delf, WUST, Izmir University
-# SKILL
+# SKILLS
 ### Learning:
 * HTML
 * CSS
@@ -48,7 +48,7 @@
 * INDESIGN
 * CINEMA 4D
 * 3DMAX
-## LANGUAGES:
+## LANGUAGES
 * English B2
 * Polish B2
 * Belarusian native
